@@ -1,0 +1,9 @@
+
+Web 1.0:
+The era of Web 1.0, often called the "static web," took place roughly from the early 1990s to the early 2000s. It was a time when websites were primarily informational, with limited interactivity. Web pages were mostly static, composed of basic HTML code, and delivered content from the server directly to the user’s browser. There was no login or user interaction; websites simply displayed text and images. Key tools in this era included HTML, CSS, and simple JavaScript. Think of it like a digital magazine where users could read but not engage.
+
+Web 2.0:
+Around the mid-2000s, Web 2.0 emerged, bringing a new level of interactivity and collaboration to the web. Known as the "social web," this era introduced dynamic websites and enabled user-generated content, which allowed people to contribute, share, and connect. Social media platforms like Facebook, YouTube, and Twitter took center stage. Key technologies and tools included AJAX for smoother interactions, JavaScript frameworks like jQuery, and platforms like WordPress that made it easy to create and manage content. Web 2.0 was all about creating communities and making the web more social and interactive.
+
+Web 3.0:
+Web 3.0, or the "semantic web," is the next evolution of the internet, aiming to make data more meaningful and interconnected. Unlike previous eras, Web 3.0 emphasizes decentralization, personalization, and the use of AI to enhance user experience. Blockchain and decentralized networks play a big role, empowering users by giving them more control over their data and identity. Semantic technology enables machines to understand and process information more intelligently. Tools like blockchain, cryptocurrency, and AI-based applications are central to Web 3.0, paving the way for a more connected and secure internet.
